@@ -34,7 +34,7 @@ module.exports = {
     SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~TRwmhY7Z#b_2tenbhgrRLMw2mi2e2aLUzAGz0Kznbn1nGo9eosZE",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-    AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
+    AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
