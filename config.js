@@ -48,15 +48,15 @@ module.exports = {
     FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
     FAKE_TYPING: process.env.FAKE_TYPING || "false",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
-    CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
+    CURRENT_STATUS: process.env.CURRENT_STATUS || "false",
     AUTO_REACT: process.env.AUTO_REACT || "false",
-    HEART_REACT: process.env.HEART_REACT || "true",
+    HEART_REACT: process.env.HEART_REACT || "false",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "2250779072323",
     OWNER_NAME: process.env.OWNER_NAME || "𝐂𝐚𝐥𝐥_𝐦𝐞_𝐒𝐚𝐝",
-    READ_CMD: process.env.READ_CMD || "true",
+    READ_CMD: process.env.READ_CMD || "false",
     BOT_NAME: process.env.BOT_NAME || "➺SAD-MD",
     STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү ∂αяк-sιℓεηcε-м∂`",
-    STATUS_REACT: process.env.STATUS_REACT || "true",
+    STATUS_REACT: process.env.STATUS_REACT || "false",
     ANTI_VV: process.env.ANTI_VV || "true",// true for anti once view 
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // change it to 'log' if you want to resend deleted message in ib chat 
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39"// omdbapi.com
